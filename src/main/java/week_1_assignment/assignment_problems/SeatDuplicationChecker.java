@@ -1,3 +1,4 @@
+package main.java.week_1_assignment.assignment_problems;
 public class SeatDuplicationChecker {
 
     static void checkDuplicateSeats(int[] seatNumbers) {
