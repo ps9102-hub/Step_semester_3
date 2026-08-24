@@ -1,4 +1,5 @@
 package main.java.week_1_assignment.assignment_problems;
+
 public class TypingAccuracyChecker { 
     public static void main(String[] args) { 
       
@@ -39,4 +40,5 @@ double accuracy = total > 0 ? ((double) matched / Math.max(original.length(), ty
         } 
     } 
 }
+
 
